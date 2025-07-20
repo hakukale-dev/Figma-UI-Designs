@@ -41,6 +41,7 @@ View the full interactive Figma prototype here:
 ## Files Included
 
 - `MovieMarvel.fig` – Exported Figma design file (for backup or version control)
+- `MovieMarvel.pdf` – Layers, elements and components preview in a document (PDF) file
 - `README.md` – Project documentation
 ---
 
